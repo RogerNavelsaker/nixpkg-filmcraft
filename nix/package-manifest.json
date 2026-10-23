@@ -1,0 +1,24 @@
+{
+  "source": {
+    "type": "github-release",
+    "owner": "storytold",
+    "repo": "filmcraft",
+    "version": "0.12.0",
+    "tag": "v0.12.0",
+    "archive": "filmcraft-0.12.0-linux-x86_64.tar.gz",
+    "url": "https://github.com/storytold/filmcraft/releases/download/v0.12.0/filmcraft-0.12.0-linux-x86_64.tar.gz",
+    "hash": "sha256-3f8KLsDYnl6eZWRO1yS1t5lZYAsWAv1OpmU7WlS/iP0="
+  },
+  "package": {
+    "repo": "filmcraft",
+    "version": "0.12.0"
+  },
+  "binary": {
+    "name": "filmcraft"
+  },
+  "meta": {
+    "description": "Filmcraft, an open-source creative app from the ArtCraft Craft app suite",
+    "homepage": "https://github.com/storytold/filmcraft",
+    "licenseSpdx": "MIT OR Apache-2.0"
+  }
+}
