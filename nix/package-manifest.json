@@ -3,15 +3,15 @@
     "type": "github-release",
     "owner": "storytold",
     "repo": "filmcraft",
-    "version": "0.12.0",
-    "tag": "v0.12.0",
-    "archive": "filmcraft-0.12.0-linux-x86_64.tar.gz",
-    "url": "https://github.com/storytold/filmcraft/releases/download/v0.12.0/filmcraft-0.12.0-linux-x86_64.tar.gz",
-    "hash": "sha256-3f8KLsDYnl6eZWRO1yS1t5lZYAsWAv1OpmU7WlS/iP0="
+    "version": "0.20.1",
+    "tag": "v0.20.1",
+    "archive": "filmcraft-0.20.1-linux-x86_64.tar.gz",
+    "url": "https://github.com/storytold/filmcraft/releases/download/v0.20.1/filmcraft-0.20.1-linux-x86_64.tar.gz",
+    "hash": "sha256-Pk/qPLjUc+aPGJoKh5K6RhYPq1B62rOriSAHP9QfJPo="
   },
   "package": {
     "repo": "filmcraft",
-    "version": "0.12.0"
+    "version": "0.20.1"
   },
   "binary": {
     "name": "filmcraft"
